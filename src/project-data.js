@@ -5,6 +5,9 @@ import project4Img from "./images/4-accordion.JPG";
 import project5Img from "./images/5-menu.JPG";
 import project6Img from "./images/6-tabs.JPG";
 import project7Img from "./images/7-slider.JPG";
+import project8Img from "./images/8-lorem-ipsum.JPG";
+import project9Img from "./images/9-colour-generator.JPG";
+import project10Img from "./images/10-grocery-bud.JPG";
 
 const projects = [
   {
@@ -48,6 +51,24 @@ const projects = [
     name: "Slider",
     image: project7Img,
     url: "https://pedantic-shannon-5e6326.netlify.app",
+  },
+  {
+    id: 8,
+    name: "Lorem Ipsum",
+    image: project8Img,
+    url: "https://upbeat-beaver-07baca.netlify.app/",
+  },
+  {
+    id: 9,
+    name: "Colour Generator",
+    image: project9Img,
+    url: "https://tender-galileo-f52cf4.netlify.app/",
+  },
+  {
+    id: 10,
+    name: "Grocery Bud",
+    image: project10Img,
+    url: "https://gracious-mestorf-76c566.netlify.app/",
   },
 ];
 
