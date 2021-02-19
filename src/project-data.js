@@ -8,6 +8,10 @@ import project7Img from "./images/7-slider.JPG";
 import project8Img from "./images/8-lorem-ipsum.JPG";
 import project9Img from "./images/9-colour-generator.JPG";
 import project10Img from "./images/10-grocery-bud.JPG";
+import project11Img from "./images/11-navbar.JPG";
+import project12Img from "./images/12-sidebar-modal.JPG";
+import project13Img from "./images/13-stripe-menu.JPG";
+import project14Img from "./images/14-cart.JPG";
 
 const projects = [
   {
@@ -69,6 +73,30 @@ const projects = [
     name: "Grocery Bud",
     image: project10Img,
     url: "https://gracious-mestorf-76c566.netlify.app/",
+  },
+  {
+    id: 11,
+    name: "Navbar",
+    image: project11Img,
+    url: "https://optimistic-lichterman-53124a.netlify.app/",
+  },
+  {
+    id: 12,
+    name: "Sidebar and Modal",
+    image: project12Img,
+    url: "https://gracious-wilson-450257.netlify.app/",
+  },
+  {
+    id: 13,
+    name: "Stripe Menu",
+    image: project13Img,
+    url: "https://fervent-ride-ef65d8.netlify.app/",
+  },
+  {
+    id: 14,
+    name: "Cart",
+    image: project14Img,
+    url: "https://gracious-golick-c1f3c6.netlify.app/",
   },
 ];
 
