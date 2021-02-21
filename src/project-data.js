@@ -12,6 +12,7 @@ import project11Img from "./images/11-navbar.JPG";
 import project12Img from "./images/12-sidebar-modal.JPG";
 import project13Img from "./images/13-stripe-menu.JPG";
 import project14Img from "./images/14-cart.JPG";
+import project15Img from "./images/15-cocktails.JPG";
 
 const projects = [
   {
@@ -97,6 +98,12 @@ const projects = [
     name: "Cart",
     image: project14Img,
     url: "https://gracious-golick-c1f3c6.netlify.app/",
+  },
+  {
+    id: 15,
+    name: "Cocktails",
+    image: project15Img,
+    url: "https://goofy-booth-ec6867.netlify.app/",
   },
 ];
 
